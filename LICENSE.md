@@ -48,7 +48,7 @@ Getting started takes less than 60 seconds.
 *   **Performance Optimized:** Zero impact on game FPS.
 *   **Regular Updates:** Actively maintained to ensure compatibility with the latest game version.
 
-## ❓ Frequently Asked Questions
+## ❓ Frequently Asked Questions:
 
 **Q: Is this safe to use?**  
 A: This tool utilizes the most advanced obfuscation and injection methods available. It is designed for single-player and private servers. Use at your own discretion.
